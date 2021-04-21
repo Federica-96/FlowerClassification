@@ -1,2 +1,2 @@
 # FlowerClassification
-CNN Model for Flower Classification
+CNN for Flower Classification
